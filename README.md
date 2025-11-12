@@ -1,8 +1,8 @@
-# 🧾 Automação de Geração de PDFs — Waldesa
+<h1 align="center">🧾 Projeto de Gerar PDFs — Waldesa
 
-Projeto desenvolvido em **C# (.NET Framework)** utilizando **Windows Forms** e a biblioteca **iTextSharp** para automação interna da empresa **Waldesa**.
+<h3 align="center">Projeto desenvolvido em C# (.NET Framework) utilizando Windows Forms e a biblioteca iTextSharp para automação interna da empresa Waldesa.
 
-## 💡 Sobre o Projeto
+### 💡 Sobre o Projeto
 
 Este sistema foi criado com o objetivo de **automatizar a geração de documentos em PDF** para uso interno da empresa, agilizando o processo de registro e documentação.
 
@@ -15,7 +15,7 @@ Essa automação visa reduzir o tempo gasto em tarefas repetitivas e aumentar a 
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+### 🖥️ Tecnologias Utilizadas
 
 - **C#** — Linguagem principal de desenvolvimento  
 - **.NET Framework / Windows Forms** — Criação da interface gráfica  
@@ -24,7 +24,7 @@ Essa automação visa reduzir o tempo gasto em tarefas repetitivas e aumentar a 
 
 ---
 
-## ⚙️ Funcionalidades
+### ⚙️ Funcionalidades
 
 ✅ Geração automática de PDFs  
 ✅ Interface intuitiva e de fácil uso  
@@ -33,26 +33,37 @@ Essa automação visa reduzir o tempo gasto em tarefas repetitivas e aumentar a 
 
 ---
 
-## 📸 Design dos PDF
+### 📸 Design dos PDF
 
 
-
+<img alt="Chamados" label="Design Pdf Chamados" src="https://github.com/user-attachments/assets/08ad8bd3-8938-444b-8f12-bad9d122b636" width="250" />
 
 ---
 
-## 🏢 Empresa
+<div style="display: inline-block">
+
+<img alt="Chamados" label="Design Pdf Chamados" src="https://github.com/user-attachments/assets/82138be8-9fb5-4509-b598-80ec161171a2" width="250" />
+<img alt="Chamados" label="Design Pdf Chamados" src="https://github.com/user-attachments/assets/c1af7eea-a280-40a2-b700-c42a81f7eeb8" width="250" />
+<img alt="Chamados" label="Design Pdf Chamados" src="https://github.com/user-attachments/assets/289f4f4f-1220-4fde-bca1-d191450a3120" width="250" />
+<img alt="Chamados" label="Design Pdf Chamados" src="https://github.com/user-attachments/assets/45421e38-0d34-40a2-9d2f-143d6d74d18b" width="250" />
+
+</div>
+
+---
+
+### 🏢 Empresa
 
 Este projeto foi desenvolvido para uso interno da empresa **Waldesa**, com foco em **automação e eficiência operacional**.
 
 ---
 
-## 👨‍💻 Autor
+### Autor:
 **Gustavo Henrique Ribeiro dos Santos**  
 
 
 ---
 
-## 🧰 Como Executar o Projeto
+### 🧰 Como Executar o Projeto
 
 1. Clone este repositório:  
    ```bash
