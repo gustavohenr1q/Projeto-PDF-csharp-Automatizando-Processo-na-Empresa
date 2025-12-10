@@ -91,6 +91,7 @@
     <Folder Include="pdf\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Example.jpg" />
     <Content Include="logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
