@@ -56,7 +56,7 @@ Essa automação visa reduzir o tempo gasto em tarefas repetitivas e aumentar a 
 
 ---
 
-### 🛒 Compras
+### 🚧 Projetos Infraestrutura
 
 <div style="display: inline-block">
 
