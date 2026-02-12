@@ -39,7 +39,7 @@ namespace ChamadosC_
             logo.ScalePercent(30f);
 
             doc.Add(logo);
-            
+
 
 
 
@@ -527,7 +527,7 @@ namespace ChamadosC_
                 "Realizar levantamento da infraestrutura atual da unidade.\n\n" +
                 "Instalar novos servidores para centralização de dados e aplicações.\n\n" +
                 "Implementar switches gerenciáveis para otimizar a rede interna.\n\n" +
-                "Executar cabeamento estruturado para garantir maior estabilidade e velocidade.\n\n"+
+                "Executar cabeamento estruturado para garantir maior estabilidade e velocidade.\n\n" +
                 "Configurar nobreaks para proteção contra quedas de energia.\n\n" +
                 "Testar conectividade e desempenho da rede após a instalação..\n\n";
 
@@ -618,9 +618,32 @@ namespace ChamadosC_
 
         }
 
+        public static void GerarRelatorio2()
+        {
+            #region Instâncias e Fontes
+
+            string newFile = @"pdf/Análise Técnico.pdf";
+            Directory.CreateDirectory("pdf");
+
+            Document doc = new Document();
+            PdfWriter writer = PdfWriter.GetInstance(doc, new FileStream(newFile, FileMode.Create));
+            doc.Open();
+
+            BaseFont bf = BaseFont.CreateFont(BaseFont.HELVETICA, BaseFont.CP1252, BaseFont.NOT_EMBEDDED);
+
+            Font tituloFont = new Font(bf, 26f, Font.BOLD, BaseColor.BLACK);
+            Font infoLabelFont = new Font(bf, 10f, Font.BOLD, BaseColor.WHITE);
+            Font infoValueFont = new Font(bf, 10f, Font.NORMAL, BaseColor.BLACK);
+            Font headerFont = new Font(bf, 13f, Font.BOLD, BaseColor.WHITE);
+            Font subHeaderFont = new Font(bf, 11f, Font.BOLD, BaseColor.WHITE);
+            Font contentFont = new Font(bf, 10f, Font.NORMAL, BaseColor.BLACK);
+            Font rodapeFont = new Font(bf, 9f, Font.BOLDITALIC, BaseColor.BLACK);
+            Font assinaturaFont = new Font(bf, 9f, Font.BOLDITALIC, BaseColor.BLACK);
+
+            #endregion
 
 
 
-
+        }
     }
 }

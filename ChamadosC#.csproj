@@ -72,6 +72,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -93,6 +94,9 @@
   <ItemGroup>
     <Content Include="Example.jpg" />
     <Content Include="logo.png" />
+    <None Include="Resources\canva.jpg" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\logoazul.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
