@@ -64,6 +64,17 @@ Essa automação visa reduzir o tempo gasto em tarefas repetitivas e aumentar a 
 <img alt="Infraestrutura" label="Infraestrutura" src="https://github.com/user-attachments/assets/1230f27b-4a5b-4462-88c1-d7514c19c711" width="250" />
 
 ---
+### 📑Relatório Técnico de Ordem de Serviço
+
+<div style="display: inline-block">
+
+<img alt="Infraestrutura" label="Infraestrutura" src="https://github.com/user-attachments/assets/960ec7b6-2395-40e9-99fb-74565ee949e5" width="250" />
+<img alt="Infraestrutura" label="Infraestrutura" src="https://github.com/user-attachments/assets/669d2583-aa42-4e55-a197-45ad50ba1680" width="250" />
+<img alt="Infraestrutura" label="Infraestrutura" src="https://github.com/user-attachments/assets/07380db9-68f5-46dc-9cc7-66cec9b6b663" width="250" />
+<img alt="Infraestrutura" label="Infraestrutura" src="https://github.com/user-attachments/assets/dd84eef2-4fd6-4f1f-82db-e12ec1866191" width="250" />
+<img alt="Infraestrutura" label="Infraestrutura" src="https://github.com/user-attachments/assets/154e0369-50f7-4c73-a230-089b16112b92" width="250" />
+
+---
 
 ### 🏢 Empresa
 
